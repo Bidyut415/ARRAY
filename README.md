@@ -8,5 +8,5 @@
       Reverse an Array
 # Explanation:
       Two-pointer approach
-      Two-pointer approach
+      Swap first with last, second with second-last… until mid.
       
