@@ -9,4 +9,7 @@
 # Explanation:
       Two-pointer approach
       Swap first with last, second with second-last… until mid.
+
+# Concept no 3:
+      Move Zero to the end side of the array 
       
